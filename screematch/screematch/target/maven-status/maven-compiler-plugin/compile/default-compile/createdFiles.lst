@@ -1,0 +1,9 @@
+projeto\springboot\screematch\service\ConsumoApi.class
+projeto\springboot\screematch\model\DadosTemporada.class
+projeto\springboot\screematch\model\DadosEpisodio.class
+projeto\springboot\screematch\service\IConverteDados.class
+projeto\springboot\screematch\model\Episodio.class
+projeto\springboot\screematch\principal\Principal.class
+projeto\springboot\screematch\ScreematchApplication.class
+projeto\springboot\screematch\model\DadosSerie.class
+projeto\springboot\screematch\service\CoverteDados.class
